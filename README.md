@@ -61,15 +61,6 @@ projeto.
 
 PÚBLICA
 
-4. (Obrigatório) – Comente os principais desafios encontrados, a solução
-aplicada e o que entende que poderia ser feito de uma maneira mais eficiente.
-Formato da entrega:
-• Enviar um arquivo .zip com o projeto completo.
-• Nome do arquivo: Desafio_Automacao_NomeSobrenome.zip.
-• Enviar para o e-mail renan.bazan@vtal.com com o assunto:
-Entrega – Desafio Técnico Automação – [Nome do Candidato]
-Prazo de entrega: até as 23:59 do dia seguinte ao recebimento deste e-mail.
-
 Critérios de avaliação
 Critério Peso
 Lógica da solução e clareza do fluxo
