@@ -1,0 +1,21 @@
+Desafio_Automacao_RigleiMarcos.zip
+
+# Ambiente virtual
+.venv/
+
+
+# Variáveis de ambiente
+_APP/.env
+
+# Logs
+_LOGS/app.log
+
+# Anexos
+_ANEXOS
+
+# Ignorar IDE
+.idea
+
+# Cache Python
+__pycache__/
+*.pyc
