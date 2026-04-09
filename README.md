@@ -1,5 +1,4 @@
 Desafio Técnico – Automação para Criação de PO no SAP S/4HANA
-Tempo para entrega: 24 horas
 
 Cenário
 O time financeiro da empresa recebe mensalmente dezenas de faturas de
